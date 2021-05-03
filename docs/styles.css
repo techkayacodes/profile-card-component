@@ -222,7 +222,7 @@ its okay - I am learning advanced selectors */
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, 50%);
 }
