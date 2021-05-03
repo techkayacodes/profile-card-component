@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-[profile-card-component-techkaya](https://github.com/[techkayacodes]/[profile-card-component]/blob/[main]/design/project-details-design-html-css.jpg?raw=true)
+[profile-card-component-techkaya](https://github.com/[techkayacodes]/[profile-card-component]/blob/[main]/profile-card-frontendmentor.png?raw=true)
 
 
 ### Links
